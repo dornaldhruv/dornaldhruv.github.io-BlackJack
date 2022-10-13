@@ -1,0 +1,18 @@
+button{
+        padding:10px 14px;
+        background-color: burlywood;
+        border: 2px solid black;
+        color: white;
+        font-weight: bold;
+        border-radius: 8px;
+        text-decoration: double;
+        cursor: pointer;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url('https://imgs.search.brave.com/YXoKc0kA2__ESu8oGwevT4HrIW_97hSevzJ1k80VRts/rs:fit:1000:667:1/g:ce/aHR0cHM6Ly92aXJh/bHJhbmcuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA4/L1Byb2Zlc3Npb25h/bC1MaXZlLUJsYWNr/amFjay5qcGc');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
